@@ -1,0 +1,402 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Agent_Comment_Sectio" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "评论区"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_All_Comments" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部评论"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Author" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作者"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Display_Status_Close_Explain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已关闭该智能体评论区暂不可评论和查看"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Display_Status_Close_Explain_2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作者已关闭该智能体评论区暂不可评论和查看"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Display_Status_Close_Go_Activate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "去开启"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Expand_Comments" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "展开 %@ 条回复"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Expand_More_Comments" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "展开更多条回复"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Fans" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粉丝：%@"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Follow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关注"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Following" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已关注"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Guide_Comment" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该评论区暂无评论\n快来抢首评吧～"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Input_Field" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发评论，一起讨论智能体吧"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_NO" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NO.%@"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Pin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "置顶"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Reply" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回复"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Reply_To" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回复 %@"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Reply_to_Comment" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回复@%@"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Star_Level" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "星缘值：%@"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Tag_Self" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我"
+          }
+        }
+      }
+    },
+    "Agent_Comment_Section_Unexpand_More_Comments" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收起"
+          }
+        }
+      }
+    },
+    "App_unknown_error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "糟糕，发生了未知错误"
+          }
+        }
+      }
+    },
+    "comment_memory_cell_comment_detail_tip" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自记忆簿"
+          }
+        }
+      }
+    },
+    "comment_memory_cell_num_comment_detail_tip" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共%@条"
+          }
+        }
+      }
+    },
+    "date_days_ago" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d天前"
+          }
+        }
+      }
+    },
+    "date_minutes_ago" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d分钟前"
+          }
+        }
+      }
+    },
+    "date_seconds_ago" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d秒前"
+          }
+        }
+      }
+    },
+    "image_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[图片]"
+          }
+        }
+      }
+    },
+    "list_loading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在加载..."
+          }
+        }
+      }
+    },
+    "list_no_more_items" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- 到底啦 -"
+          }
+        }
+      }
+    },
+    "loading_memories_home_h5_tip" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加载"
+          }
+        }
+      }
+    },
+    "no_network_error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "抱歉，网络错误"
+          }
+        }
+      }
+    },
+    "npc_profile_new_creator_name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作者："
+          }
+        }
+      }
+    },
+    "sendmessages_timingrules_5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刚刚"
+          }
+        }
+      }
+    },
+    "text_too_long" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最多可以输入 %d 个字"
+          }
+        }
+      }
+    },
+    "try_again" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再试试"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

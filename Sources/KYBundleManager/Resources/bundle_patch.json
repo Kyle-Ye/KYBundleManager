@@ -1,0 +1,17 @@
+{
+    "bundles": [
+      {
+        "bundle_name": "emoji",
+        "bundle_version": 15,
+        "bundle_url": "https://example.com/emoji_15.zip",
+        "bundle_md5": "1234567890abcdef",
+        "deprecated": false,
+        "patch_url": "https://example.com/emoji_14_15.patch",
+        "patch_version_range": "14-15"
+      }
+    ],
+    "base_resp": {
+      "status_code": 0,
+      "status_msg": "success"
+    }
+}
